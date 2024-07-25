@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Namanjain
+- 👋 Hi, I’m Naman bagrecha
 - 👀 I’m interested in to become a software engineer.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
