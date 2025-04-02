@@ -1,6 +1,6 @@
 Hi, I'm Naman Bagrecga! 👋
 
-🚀 MERN Stack Software Engineer | Full-Stack Developer
+🚀 Full Stack Software Engineer | Full-Stack Developer
 
 Welcome to my GitHub! I'm a passionate software developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
 
