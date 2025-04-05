@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate software developer specializing in the ME
 
 🎓 Bachelor's degree from Medi-Caps University
 
-💻 Experienced in JavaScript, React, Node.js, HTML, CSS, Python
+💻 Experienced in JavaScript, React, Node.js, HTML, CSS, Python, SQL, Excel, PowerBI
 
 🌱 Currently learning Next.js & TypeScript
 
