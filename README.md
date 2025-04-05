@@ -30,8 +30,6 @@ Others: REST APIs, GraphQL, WebSockets, Authentication (JWT, OAuth)
 
 🔹 E-commerce Platform – Built a feature-rich online shopping website with React, Redux, and Stripe payments.
 
-🔹 Real-time Chat App – Implemented WebSockets for live messaging with Node.js and Socket.io.
-
 📫 Let's Connect!
 
 💼 LinkedIn
