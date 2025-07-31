@@ -8,17 +8,17 @@ Welcome to my GitHub! I'm a passionate software developer specializing in the ME
 
 🎓 Bachelor's degree from Medi-Caps University
 
-💻 Experienced in JavaScript, React, Node.js, HTML, CSS, Python, SQL, Excel, PowerBI
+💻 Experienced in JavaScript, React, HTML, CSS, Python, SQL, Excel
 
-🌱 Currently learning Next.js & TypeScript
+🌱 Currently learning django
 
 ⚡ Passionate about open-source projects & problem-solving
 
 🛠️ Tech Stack
 
-Frontend: React.js, Next.js, Tailwind CSS, Bootstrap
+Frontend: React.js, Tailwind CSS, HTML, CSS.
 
-Backend: Node.js, Express.js, MongoDB, Firebase
+Backend: Django, MongoDB, Fastapi. 
 
 Tools & Platforms: Git, GitHub, Postman, Docker, AWS, Vercel
 
