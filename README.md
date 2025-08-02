@@ -26,9 +26,11 @@ Others: REST APIs, GraphQL, WebSockets, Authentication (JWT, OAuth)
 
 📌 Featured Projects
 
-🔹 Personal Finance Tracker – A full-stack finance management app using MERN stack.
+🔹 Personal Finance Tracker – A full-stack finance management app using Full-Stack.
 
-🔹 E-commerce Platform – Built a feature-rich online shopping website with React, Redux, and Stripe payments.
+🔹 E-commerce Platform – Built a feature-rich online shopping website with React, Django, and Stripe payments.
+
+🔹 Personal Voice Assistant(Aura+) - AI powered Voice assistant for task management.
 
 📫 Let's Connect!
 
