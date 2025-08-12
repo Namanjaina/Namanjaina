@@ -1,51 +1,50 @@
-<!-- Animated Gradient Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hi,%20I'm%20Naman%20Bagrecga%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-</p>
+<h1 align="center">Hi, I'm Naman Bagrecga! 👋</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00F7F7&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Django+%26+FastAPI+Developer;Love+Building+Scalable+Web+Apps;Passionate+About+Open+Source" alt="Typing SVG" />
-</p>
-
----
-
-<!-- Coding Animation Background -->
-<p align="center">
-  <img src="https://i.imgur.com/qJ7YtXT.gif" alt="Coding Animation" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Passionate+about+Django+%26+FastAPI;Loves+building+scalable+apps;Always+learning+new+tech" alt="Typing animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Bachelor's degree from **Medi-Caps University**  
-- 💻 Skilled in **JavaScript, React, HTML, CSS, Python, SQL, Excel**  
-- 🌱 Currently learning **Django**  
-- ⚡ Love **open-source projects & problem-solving**  
+- 🎓 Bachelor's degree from **Medi-Caps University**
+- 💻 Skilled in **JavaScript, React, HTML, CSS, Python, SQL, Excel**
+- 🌱 Currently learning **Django**
+- ⚡ Love **open-source projects & problem-solving**
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,mongodb,fastapi,git,github,docker,aws" />
-</p>
+## 🛠️ Tech Stack
+💻 **Frontend:** React.js, Tailwind CSS, HTML, CSS  
+🖥 **Backend:** Django, MongoDB, FastAPI  
+🔧 **Tools & Platforms:** Git, GitHub, Postman, Docker, AWS, Vercel  
+📡 **Others:** REST APIs, GraphQL, WebSockets, JWT, OAuth  
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Personal Finance Tracker** – Full-stack finance management app  
-🔹 **E-commerce Platform** – React, Django & Stripe payments  
-🔹 **Aura+ Voice Assistant** – AI-powered task management assistant  
+- **Personal Finance Tracker** – Full-stack finance management app  
+- **E-commerce Platform** – React + Django + Stripe payments  
+- **Personal Voice Assistant (Aura+)** – AI-powered task manager  
 
 ---
 
-## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="animated coding banner" />
 </p>
 
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation" />
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+  </a>
 </p>
