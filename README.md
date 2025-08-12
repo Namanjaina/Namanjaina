@@ -5,9 +5,14 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Open-Source+Enthusiast;Django+%26+FastAPI+Developer;Building+Scalable+Apps+%26+APIs" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00F7F7&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Django+%26+FastAPI+Developer;Love+Building+Scalable+Web+Apps;Passionate+About+Open+Source" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Coding Animation Background -->
+<p align="center">
+  <img src="https://i.imgur.com/qJ7YtXT.gif" alt="Coding Animation" width="100%" />
 </p>
 
 ---
@@ -34,25 +39,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=false" height="170" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- Footer Banner -->
