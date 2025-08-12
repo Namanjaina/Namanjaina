@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey!+I'm+Naman+Bagrecha+👋;Backend+Software+Engineer;Full-Stack+Developer;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing Animation" />
-</h1>
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4ECD&center=true&vCenter=true&width=500&lines=Hey!+I'm+Naman+Bagrecha+💻;Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor)
 
 
 ---
