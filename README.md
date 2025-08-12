@@ -38,7 +38,7 @@
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/naman-bagrecha-860624259"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/naman-bagrecha-860624259"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FF7139.svg?&style=for-the-badge&logo=Firefox&logoColor=white" /></a>
-  <a href="mailto:Namanbagrecha007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="Namanbagrecha007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
