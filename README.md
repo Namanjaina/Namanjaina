@@ -22,7 +22,7 @@
 
 ## 📌 Featured Projects
 - **Personal Finance Tracker** – Full-stack finance management app.  
-- **E-commerce Platform** – React, Django & Stripe payments.  
+- **Smart Blood & Organ Donation Network** – React, Django & Rest API , Authentication(AWT).  
 - **Personal Voice Assistant (Aura+)** – AI-powered voice assistant for task management.  
 
 ---
